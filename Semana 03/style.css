@@ -12,7 +12,7 @@ body {
 }
 
 img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   display: block;
   border-radius: 20px;
@@ -20,7 +20,7 @@ img {
 
 a {
     background-color: yellow;
-  color: #000;
+  color: #222;
   padding: 10px;
   text-decoration: none;
 
